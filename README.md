@@ -36,6 +36,6 @@ A opção --recursive garante que todos os submódulos aninhados também sejam i
 ## Passo 3: Links de Referência dos Submódulos
 Aqui estão os links para os READMEs dos submódulos que fazem parte deste projeto:
 
-[Submódulo - imhere]([https://www.google.com](https://github.com/dev-marianacavalcante/imhere#imhere))
+[Submódulo imhere](https://github.com/dev-marianacavalcante/imhere#imhere)
 
 Certifique-se de visitar esses links para obter informações detalhadas sobre cada submódulo.
